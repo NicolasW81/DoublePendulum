@@ -1,7 +1,7 @@
 # Transient Stability Landscapes in the Double Pendulum System
 
 **Author:** Nicolas Wallner  
-**DOI / Citation:** (optional DOI if archived in Zenodo)  
+**DOI / Citation:** 
 **GitHub Repository:** [https://github.com/NicolasW81/DoublePendulum](https://github.com/NicolasW81/DoublePendulum)
 
 ---
