@@ -17,7 +17,8 @@ The study identifies previously unreported transient stability patterns in the n
 ## Contents
 
 - `DoublePendulum.py` – Core simulations (Simulations 1-3)  
-- `DoublePendulum3DSimulation.py` – 3D animated stability landscapes (Simulation 4)  
+- `DoublePendulum3DSimulation.py` – 3D animated stability landscapes (Simulation 4)
+- `DoublePendulum_Simulation4.gif` - 3D GIF animation (Simulation 4 Result)
 - `rungekutta_test.py` – Verification using fourth-order Runge–Kutta (Simulation 5a)  
 - `leapfrog_test.py` – Verification using symplectic Leapfrog integration (Simulation 5b) 
 - `README.md` – This file
