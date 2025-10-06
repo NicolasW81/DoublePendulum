@@ -1,7 +1,7 @@
 # Transient Stability Landscapes in the Double Pendulum System
 
 **Author:** Nicolas Wallner  
-**DOI / Citation:** 
+**DOI / Citation:** Wallner, N. (2025). Transient Stability Landscapes in the Double Pendulum System: A Geometric Analysis of Finite-Time Dynamics. Zenodo. https://doi.org/10.5281/zenodo.17272629
 **GitHub Repository:** [https://github.com/NicolasW81/DoublePendulum](https://github.com/NicolasW81/DoublePendulum)
 
 ---
